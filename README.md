@@ -2,6 +2,7 @@
 I'm a beginner game developer, mostly using C++ and SDL2 for my projects. 
 
 On this profile you can check some of my current and past works.
+You can also download my games from here: https://merlin-kuro.itch.io
 
 <!--
 **M4przybysz/M4przybysz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
