@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm a beginner game developer, mostly using C++ and SDL2 or Godot for my projects. 
+I'm a beginner game developer, mostly using C++ with SDL2 and Godot for my projects. 
 
 On this profile you can check some of my current and past works.
 
