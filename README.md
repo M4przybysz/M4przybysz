@@ -5,7 +5,7 @@ I'm currently learning Unity.
 
 On this profile you can check some of my current and past works.
 
-I have multiple years of experience in coding in C/C++, Python, JavScript HTML, CSS and PHP.
+I have multiple years of experience in coding in C/C++, Python, JavScript, HTML, CSS and PHP.
 I am open to cooperation and employment proposals.
 
 You can also play and download my projects from: 
