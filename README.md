@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm a beginner game developer 🎮🖥. I can make games in Godot game engine and in C++ with a graphics library like SFML or SDL2. 
 
-I'm currently learning Unity.
+I'm currently learning Unity and C#.
 
 On this profile you can check some of my current and past works.
 
