@@ -6,12 +6,12 @@ Jestem studentem kierunku Badanie i projektowanie gier oraz twórcą/programist�
 
 Oto niektóre z moich obecnych i przeszłych projektów:<br>
 (z moim stanowiskiem w nawiasie)
-- <a href="https://github.com/M4przybysz/Bileciki-poprosze">Blieciki poproszę!</a> 🚂 (główny programista)
-- <a href="https://github.com/M4przybysz/KeroKero">KeroKero</a> 🐸 (programista)
-- <a href="https://github.com/M4przybysz/RGBall">RGBall</a> 🔴🟢🔵 (twórca)
-- <a href="https://github.com/M4przybysz/Just_Tic-Tac-Toe">Just Tic-Tac-Toe </a> ✖⭕ (twórca)
+- <a href="https://github.com/M4przybysz/Bileciki-poprosze" target="_blank">Blieciki poproszę!</a> 🚂 (główny programista)
+- <a href="https://github.com/M4przybysz/KeroKero" target="_blank">KeroKero</a> 🐸 (programista)
+- <a href="https://github.com/M4przybysz/RGBall" target="_blank">RGBall</a> 🔴🟢🔵 (twórca)
+- <a href="https://github.com/M4przybysz/Just_Tic-Tac-Toe" target="_blank">Just Tic-Tac-Toe </a> ✖⭕ (twórca)
 
-Możesz również pobrać i zagrać w moje projekty na <a href="https://m4przybysz.itch.io">itch.io</a> oraz <a href="https://play.unity.com/pl/user/4d773310-c975-4214-bd7d-dd6d8c81a9a7">Unity Play</a>. 🎮
+Możesz również pobrać i zagrać w moje projekty na <a href="https://m4przybysz.itch.io" target="_blank">itch.io</a> oraz <a href="https://play.unity.com/pl/user/4d773310-c975-4214-bd7d-dd6d8c81a9a7" target="_blank">Unity Play</a>. 🎮
 
 # EN
 
@@ -20,10 +20,10 @@ I am a student of Game Research and Design and a game developer/programmer. I ha
 
 Here are some of my current and past projects:<br>
 (with my position in brackets)
-- <a href="https://github.com/M4przybysz/Bileciki-poprosze">Blieciki poproszę!</a> 🚂 (lead programmer)
-- <a href="https://github.com/M4przybysz/KeroKero">KeroKero</a> 🐸 (programmer)
-- <a href="https://github.com/M4przybysz/RGBall">RGBall</a> 🔴🟢🔵 (developer)
-- <a href="https://github.com/M4przybysz/Just_Tic-Tac-Toe">Just Tic-Tac-Toe </a> ✖⭕ (developer)
+- <a href="https://github.com/M4przybysz/Bileciki-poprosze" target="_blank">Blieciki poproszę!</a> 🚂 (lead programmer)
+- <a href="https://github.com/M4przybysz/KeroKero" target="_blank">KeroKero</a> 🐸 (programmer)
+- <a href="https://github.com/M4przybysz/RGBall" target="_blank">RGBall</a> 🔴🟢🔵 (developer)
+- <a href="https://github.com/M4przybysz/Just_Tic-Tac-Toe" target="_blank">Just Tic-Tac-Toe </a> ✖⭕ (developer)
 
-You can also play and download my projects on <a href="https://m4przybysz.itch.io">itch.io</a> and <a href="https://play.unity.com/pl/user/4d773310-c975-4214-bd7d-dd6d8c81a9a7">Unity Play</a>. 🎮
+You can also play and download my projects on <a href="https://m4przybysz.itch.io" target="_blank">itch.io</a> and <a href="https://play.unity.com/pl/user/4d773310-c975-4214-bd7d-dd6d8c81a9a7" target="_blank">Unity Play</a>. 🎮
 
